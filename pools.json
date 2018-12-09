@@ -42,6 +42,13 @@
     ]
   },
   {
+    "poolName": "Equipool",
+    "url": "https://equipool.1ds.us/getting_started",
+    "searchStrings": [
+      "equipool"
+    ]
+  },
+  {
     "poolName": "Equipool Europe",
     "url": "https://equipool.1ds.us/getting_started",
     "searchStrings": [
@@ -182,10 +189,24 @@
     ]
   },
   {
-    "poolName": "Xsgpool",
+    "poolName": "POOOL!",
+    "url": "http://www.POOOL.com/",
+    "searchStrings": [
+      "POOOL.com http://www.POOOL.com/"
+    ]
+  },
+  {
+   "poolName": "Xsgpool",
     "url": "http://xsgpool.com/",
     "searchStrings": [
       "xsgpool.com"
+    ]
+  },
+  {
+    "poolName": "EquiHub",
+    "url": "https://snowgem.equihub.pro/",
+    "searchStrings": [
+      "https://snowgem.equihub.pro"
     ]
   },
   {
@@ -196,10 +217,25 @@
     ]
   },
   {
-    "poolName": "POOOL!",
-    "url": "http://www.POOOL.com/",
+    "poolName": "Voidr",
+    "url": "https://snowgem.voidr.net/",
     "searchStrings": [
-      "POOOL.com http://www.POOOL.com/"
+      "voidr.net"
+    ]
+  },
+  {
+    "poolName": "Sexy",
+    "url": "http://sng.pool.sexy/#/",
+    "searchStrings": [
+      "pool.sexy"
+    ]
+  },
+  {
+    "poolName": "Default s-nomp pool",
+    "url": "https://snowgem.org",
+    "searchStrings": [
+      "Default s-nomp pool"
     ]
   }
+
 ]
