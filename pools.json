@@ -42,13 +42,6 @@
     ]
   },
   {
-    "poolName": "Equipool",
-    "url": "https://equipool.1ds.us/getting_started",
-    "searchStrings": [
-      "equipool"
-    ]
-  },
-  {
     "poolName": "Equipool Europe",
     "url": "https://equipool.1ds.us/getting_started",
     "searchStrings": [
