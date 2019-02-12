@@ -28,8 +28,8 @@
     ]
   },
   {
-    "poolName": "Ehashcoins",
-    "url": "http://sng.ehashcoins.org/",
+    "poolName": "Solopool",
+    "url": "https://sng.solopool.org",
     "searchStrings": [
       "solopool"
     ]
@@ -39,13 +39,6 @@
     "url": "https://equipool.1ds.us/getting_started",
     "searchStrings": [
       "Equipool Asia"
-    ]
-  },
-  {
-    "poolName": "Equipool",
-    "url": "https://equipool.1ds.us/getting_started",
-    "searchStrings": [
-      "equipool"
     ]
   },
   {
@@ -60,6 +53,14 @@
     "url": "https://equipool.1ds.us/getting_started",
     "searchStrings": [
       "Equipool North America"
+    ]
+  },
+  {
+    "poolName": "Equipool",
+    "url": "https://equipool.1ds.us/getting_started",
+    "searchStrings": [
+      "equipool",
+      "Equipool"
     ]
   },
   {
@@ -183,9 +184,9 @@
   },
   {
     "poolName": "Abacuspool",
-    "url": "http://abakus.gemini.net.pl/",
+    "url": "https://www.abakusmine.eu/xsg_miner.php",
     "searchStrings": [
-      "abakus"
+      "Abakusmine"
     ]
   },
   {
@@ -236,6 +237,13 @@
     "searchStrings": [
       "Default s-nomp pool"
     ]
+  },
+  {
+    "poolName": "Zergpool",
+    "url": "http://zergpool.com/",
+    "searchStrings": [
+      "zerg",
+      "Zerg"
+    ]
   }
-
 ]
