@@ -5,7 +5,7 @@
     "searchStrings": [
       "miningspeed"
     ]
-  },  
+  },
   {
     "poolName": "Lambomoon",
     "url": "https://lambomoon.club/",
@@ -244,6 +244,27 @@
     "searchStrings": [
       "zerg",
       "Zerg"
+    ]
+  },
+  {
+    "poolName": "Macro Pool",
+    "url": "http://www.macro-pool.com:8080/?page_id=297",
+    "searchStrings": [
+      "Macro-Pool.com"
+    ]
+  },
+  {
+    "poolName": "Fomo Miners",
+    "url": "https://fomominers.com/stats",
+    "searchStrings": [
+      "fomominers.com"
+    ]
+  },
+  {
+    "poolName": "Zero Pool",
+    "url": "https://zeropool.io/",
+    "searchStrings": [
+      "https://zeropool.io/"
     ]
   }
 ]
