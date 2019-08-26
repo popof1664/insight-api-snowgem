@@ -266,5 +266,12 @@
     "searchStrings": [
       "https://zeropool.io/"
     ]
+  },
+  {
+    "poolName": "ZPool",
+    "url": "https://zpool.ca/",
+    "searchStrings": [
+      "zpool.ca"
+    ]
   }
 ]
