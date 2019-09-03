@@ -439,7 +439,7 @@ StatisticService.prototype._getBlockInfo = function (blockHeight, next) {
 
         var reward = self.getBlockRewardr(blockHeight);
         dataFlow.transaction.outputs.forEach(function (output) {
-            if (output.satoshis > (reward * 0.8)) {
+            if (output.satoshis > (reward * 0.6)) {
                 dataFlow.minedBy = output.address;
             }
         });
@@ -1275,9 +1275,11 @@ StatisticService.prototype.getBlockRewardr = function (height) {
 
 StatisticService.prototype.getPoolInfo = function (paddress) {
     for (var k in this.poolStrings) {
-        if (paddress.toString().match(k)) {
-            this.poolStrings[k].address = paddress;
-            return this.poolStrings[k];
+        if (paddress != null) {
+            if (paddress.toString().match(k)) {
+                this.poolStrings[k].address = paddress;
+                return this.poolStrings[k];
+            }
         }
     }
     return {};
