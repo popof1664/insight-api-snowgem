@@ -204,6 +204,41 @@
     ]
   },
   {
+    "poolName": "EquiHub Solo EU",
+    "url": "https://solo-xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub Solo EU"
+    ]
+  },
+  {
+    "poolName": "EquiHub Solo ASIA",
+    "url": "https://solo-xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub Solo ASIA"
+    ]
+  },
+  {
+    "poolName": "EquiHub EU",
+    "url": "https://xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub EU"
+    ]
+  },
+  {
+    "poolName": "EquiHub US",
+    "url": "https://xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub US"
+    ]
+  },
+  {
+    "poolName": "EquiHub ASIA",
+    "url": "https://xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub ASIA"
+    ]
+  },
+  {
     "poolName": "EquiHub",
     "url": "https://snowgem.equihub.pro/",
     "searchStrings": [
