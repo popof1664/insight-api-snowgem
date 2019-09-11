@@ -211,6 +211,13 @@
     ]
   },
   {
+    "poolName": "EquiHub Solo US",
+    "url": "https://solo-xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub Solo US"
+    ]
+  },
+  {
     "poolName": "EquiHub Solo ASIA",
     "url": "https://solo-xsg.equihub.pro/",
     "searchStrings": [
