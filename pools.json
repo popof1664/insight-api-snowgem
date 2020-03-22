@@ -181,5 +181,12 @@
         "searchStrings": [
             "t1fMvBXaLzC9i6YKYnD3VCUZN2oifSsCZkx"
         ]
+    },
+    {
+        "poolName": "ZPOOL",
+        "url": "https://zpool.ca",
+        "searchStrings": [
+            "t1cVYU7yj2doV33B1Acn586FXn2GFSuwi3f"
+        ]
     }
 ]
