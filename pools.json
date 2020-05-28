@@ -315,5 +315,12 @@
     "searchStrings": [
       "zpool.ca"
     ]
+  },
+  {
+    "poolName": "Speedpool",
+    "url": "https://equihash.speedpool.top/getting_started",
+    "searchStrings": [
+      "Speedpool.top"
+    ]
   }
 ]
