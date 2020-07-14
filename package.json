@@ -65,7 +65,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-xsg": "snowgem/bitcore-lib-xsg",
+    "bitcore-lib-snowgem": "snowgem/bitcore-lib-snowgem",
     "bitcore-message-snowgem": "snowgem/bitcore-message-snowgem",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
