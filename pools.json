@@ -5,7 +5,7 @@
     "searchStrings": [
       "miningspeed"
     ]
-  },  
+  },
   {
     "poolName": "Lambomoon",
     "url": "https://lambomoon.club/",
@@ -204,6 +204,48 @@
     ]
   },
   {
+    "poolName": "EquiHub Solo EU",
+    "url": "https://solo-xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub Solo EU"
+    ]
+  },
+  {
+    "poolName": "EquiHub Solo US",
+    "url": "https://solo-xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub Solo US"
+    ]
+  },
+  {
+    "poolName": "EquiHub Solo ASIA",
+    "url": "https://solo-xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub Solo ASIA"
+    ]
+  },
+  {
+    "poolName": "EquiHub EU",
+    "url": "https://xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub EU"
+    ]
+  },
+  {
+    "poolName": "EquiHub US",
+    "url": "https://xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub US"
+    ]
+  },
+  {
+    "poolName": "EquiHub ASIA",
+    "url": "https://xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub ASIA"
+    ]
+  },
+  {
     "poolName": "EquiHub",
     "url": "https://snowgem.equihub.pro/",
     "searchStrings": [
@@ -244,6 +286,34 @@
     "searchStrings": [
       "zerg",
       "Zerg"
+    ]
+  },
+  {
+    "poolName": "Macro Pool",
+    "url": "http://www.macro-pool.com:8080/?page_id=297",
+    "searchStrings": [
+      "Macro-Pool.com"
+    ]
+  },
+  {
+    "poolName": "Fomo Miners",
+    "url": "https://fomominers.com/stats",
+    "searchStrings": [
+      "fomominers.com"
+    ]
+  },
+  {
+    "poolName": "Zero Pool",
+    "url": "https://zeropool.io/",
+    "searchStrings": [
+      "https://zeropool.io/"
+    ]
+  },
+  {
+    "poolName": "ZPool",
+    "url": "https://zpool.ca/",
+    "searchStrings": [
+      "zpool.ca"
     ]
   }
 ]
