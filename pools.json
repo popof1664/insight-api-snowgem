@@ -315,5 +315,12 @@
     "searchStrings": [
       "zpool.ca"
     ]
+  },
+  {
+    "poolName": "1square.net",
+    "url": "http://1square.net/",
+    "searchStrings": [
+      "1square.net"
+    ]
   }
 ]
