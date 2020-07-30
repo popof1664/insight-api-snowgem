@@ -183,10 +183,10 @@
     ]
   },
   {
-    "poolName": "Abacuspool",
-    "url": "https://www.abakusmine.eu/xsg_miner.php",
+    "poolName": "Abakus Pool",
+    "url": "https://www.abakusmine.eu/",
     "searchStrings": [
-      "Abakusmine"
+      "Abakus"
     ]
   },
   {
@@ -321,6 +321,13 @@
     "url": "https://equihash.speedpool.top/getting_started",
     "searchStrings": [
       "Speedpool.top"
+    ]
+  },
+  {
+    "poolName": "1square.net",
+    "url": "http://1square.net/",
+    "searchStrings": [
+      "1square.net"
     ]
   }
 ]
