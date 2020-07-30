@@ -5,7 +5,7 @@
     "searchStrings": [
       "miningspeed"
     ]
-  },  
+  },
   {
     "poolName": "Lambomoon",
     "url": "https://lambomoon.club/",
@@ -28,15 +28,16 @@
     ]
   },
   {
-    "poolName": "Ehashcoins",
-    "url": "http://sng.ehashcoins.org/",
+    "poolName": "Solopool",
+    "url": "https://sng.solopool.org",
     "searchStrings": [
       "solopool"
     ]
   },
   {
     "poolName": "Equipool Asia",
-    "url": "https://equipool.1ds.us/getting_started",
+    "url": "https://
+    /getting_started",
     "searchStrings": [
       "Equipool Asia"
     ]
@@ -45,14 +46,15 @@
     "poolName": "Equipool Europe",
     "url": "https://equipool.1ds.us/getting_started",
     "searchStrings": [
-      "Equipool Europe"
+      "Equipool North America"
     ]
   },
   {
-    "poolName": "Equipool North America",
+    "poolName": "Equipool",
     "url": "https://equipool.1ds.us/getting_started",
     "searchStrings": [
-      "Equipool North America"
+      "equipool",
+      "Equipool"
     ]
   },
   {
@@ -175,10 +177,10 @@
     ]
   },
   {
-    "poolName": "Abacuspool",
-    "url": "http://abakus.gemini.net.pl/",
+    "poolName": "Abakus Pool",
+    "url": "https://www.abakusmine.eu/",
     "searchStrings": [
-      "abakus"
+      "Abakus"
     ]
   },
   {
@@ -193,6 +195,48 @@
     "url": "http://xsgpool.com/",
     "searchStrings": [
       "xsgpool.com"
+    ]
+  },
+  {
+    "poolName": "EquiHub Solo EU",
+    "url": "https://solo-xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub Solo EU"
+    ]
+  },
+  {
+    "poolName": "EquiHub Solo US",
+    "url": "https://solo-xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub Solo US"
+    ]
+  },
+  {
+    "poolName": "EquiHub Solo ASIA",
+    "url": "https://solo-xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub Solo ASIA"
+    ]
+  },
+  {
+    "poolName": "EquiHub EU",
+    "url": "https://xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub EU"
+    ]
+  },
+  {
+    "poolName": "EquiHub US",
+    "url": "https://xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub US"
+    ]
+  },
+  {
+    "poolName": "EquiHub ASIA",
+    "url": "https://xsg.equihub.pro/",
+    "searchStrings": [
+      "EquiHub ASIA"
     ]
   },
   {
@@ -229,6 +273,55 @@
     "searchStrings": [
       "Default s-nomp pool"
     ]
+  },
+  {
+    "poolName": "Zergpool",
+    "url": "http://zergpool.com/",
+    "searchStrings": [
+      "zerg",
+      "Zerg"
+    ]
+  },
+  {
+    "poolName": "Macro Pool",
+    "url": "http://www.macro-pool.com:8080/?page_id=297",
+    "searchStrings": [
+      "Macro-Pool.com"
+    ]
+  },
+  {
+    "poolName": "Fomo Miners",
+    "url": "https://fomominers.com/stats",
+    "searchStrings": [
+      "fomominers.com"
+    ]
+  },
+  {
+    "poolName": "Zero Pool",
+    "url": "https://zeropool.io/",
+    "searchStrings": [
+      "https://zeropool.io/"
+    ]
+  },
+  {
+    "poolName": "ZPool",
+    "url": "https://zpool.ca/",
+    "searchStrings": [
+      "zpool.ca"
+    ]
+  },
+  {
+    "poolName": "Speedpool",
+    "url": "https://equihash.speedpool.top/getting_started",
+    "searchStrings": [
+      "Speedpool.top"
+    ]
+  },
+  {
+    "poolName": "1square.net",
+    "url": "http://1square.net/",
+    "searchStrings": [
+      "1square.net"
+    ]
   }
-
 ]
