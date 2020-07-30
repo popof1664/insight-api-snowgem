@@ -36,8 +36,7 @@
   },
   {
     "poolName": "Equipool Asia",
-    "url": "https://
-    /getting_started",
+    "url": "https://equipool.1ds.us/getting_started",
     "searchStrings": [
       "Equipool Asia"
     ]
@@ -141,13 +140,13 @@
       "solomining"
     ]
   },
-{
-  "poolName": "Lucky-Mining",
-  "url": "https://sng.lucky-mining.com.ua/",
-  "searchStrings": [
-    "lucky-mining.com.ua"
-  ]
-},
+  {
+    "poolName": "Lucky-Mining",
+    "url": "https://sng.lucky-mining.com.ua/",
+    "searchStrings": [
+      "lucky-mining.com.ua"
+    ]
+  },
   {
     "poolName": "NOMP pool",
     "url": "https://snowgem.org",
@@ -191,7 +190,7 @@
     ]
   },
   {
-   "poolName": "Xsgpool",
+    "poolName": "Xsgpool",
     "url": "http://xsgpool.com/",
     "searchStrings": [
       "xsgpool.com"
