@@ -317,6 +317,13 @@
     ]
   },
   {
+    "poolName": "Speedpool",
+    "url": "https://equihash.speedpool.top/getting_started",
+    "searchStrings": [
+      "Speedpool.top"
+    ]
+  },
+  {
     "poolName": "1square.net",
     "url": "http://1square.net/",
     "searchStrings": [
