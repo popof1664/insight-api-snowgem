@@ -36,20 +36,14 @@
   },
   {
     "poolName": "Equipool Asia",
-    "url": "https://equipool.1ds.us/getting_started",
+    "url": "https://
+    /getting_started",
     "searchStrings": [
       "Equipool Asia"
     ]
   },
   {
     "poolName": "Equipool Europe",
-    "url": "https://equipool.1ds.us/getting_started",
-    "searchStrings": [
-      "Equipool Europe"
-    ]
-  },
-  {
-    "poolName": "Equipool North America",
     "url": "https://equipool.1ds.us/getting_started",
     "searchStrings": [
       "Equipool North America"
@@ -314,6 +308,13 @@
     "url": "https://zpool.ca/",
     "searchStrings": [
       "zpool.ca"
+    ]
+  },
+  {
+    "poolName": "Speedpool",
+    "url": "https://equihash.speedpool.top/getting_started",
+    "searchStrings": [
+      "Speedpool.top"
     ]
   },
   {
