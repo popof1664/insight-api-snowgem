@@ -1209,7 +1209,7 @@ StatisticService.prototype.getBlockReward = function (height, callback) {
     if (height <= 5000) {
       halvings = 0
     } else {
-      halvings = Math.floor((height - (5000)) / 657850);
+      halvings = Math.floor((height - (2500)) / 655350);
     }
     // Force block reward to zero when right shift is undefined.
     if (halvings >= 64) {
@@ -1245,7 +1245,7 @@ StatisticService.prototype.getBlockRewardr = function (height) {
     if (height <= 5000) {
       halvings = 0
     } else {
-      halvings = Math.floor((height - (5000)) / 657850);
+      halvings = Math.floor((height - (2500)) / 655350);
     }
     // Force block reward to zero when right shift is undefined.
     if (halvings >= 64) {
