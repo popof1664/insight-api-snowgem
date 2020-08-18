@@ -1290,9 +1290,9 @@ StatisticService.prototype.getPoolInfo = function (paddress) {
  * @return {BigNumber} supply - BigNumber representation of total supply
  */
 StatisticService.prototype.getTotalSupply = function () {
-    var self = this;
     let subsidy = 150;
-    var halvings = Math.floor((self.node.services.bitcoind.height - 2500) / 655350);
+    const height = this.node.services.bitcoind.height
+    var halvings = Math.floor((height - 2500) / 655350);
     var coins = ((657850 - 5000) * 150) + 375000 + 13020000;
     console.log(halvings);
     for (let i = 1; i <= halvings; i++) {
