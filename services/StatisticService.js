@@ -1290,9 +1290,25 @@ StatisticService.prototype.getPoolInfo = function (paddress) {
  * @return {BigNumber} supply - BigNumber representation of total supply
  */
 StatisticService.prototype.getTotalSupply = function () {
-    var blockHeight = this.node.services.bitcoind.height;
+    var self = this;
+    let subsidy = 150;
+    var halvings = Math.floor((self.node.services.bitcoind.height - 2500) / 655350);
+    var coins = ((657350 - 5000) * 150) + 375000 + 13020000;
+    console.log(halvings);
+    for (let i = 1; i <= halvings; i++) {
+      subsidy = subsidy / 2;
+      console.log(subsidy);
+      if (i >= 64) {
+        coins += 0
+      } else if (i === halvings) {
+        // good for last one
+        coins += (height - 657350 - ((i - 1) * 655350)) * subsidy;
+      } else {
+        coins += 655350 * subsidy
+      }
+    }
 
-    var supply = (new BigNumber(12582500)).plus((blockHeight) * 150); //dev fund, slow start 12582500 = 312500 + 13020000 - 750000
+    var supply = new BigNumber(coins);
 
     return supply;
 };
