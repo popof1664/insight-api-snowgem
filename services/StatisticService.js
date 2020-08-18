@@ -1293,7 +1293,7 @@ StatisticService.prototype.getTotalSupply = function () {
     var self = this;
     let subsidy = 150;
     var halvings = Math.floor((self.node.services.bitcoind.height - 2500) / 655350);
-    var coins = ((657350 - 5000) * 150) + 375000 + 13020000;
+    var coins = ((657850 - 5000) * 150) + 375000 + 13020000;
     console.log(halvings);
     for (let i = 1; i <= halvings; i++) {
       subsidy = subsidy / 2;
@@ -1302,7 +1302,7 @@ StatisticService.prototype.getTotalSupply = function () {
         coins += 0
       } else if (i === halvings) {
         // good for last one
-        coins += (height - 657350 - ((i - 1) * 655350)) * subsidy;
+        coins += (height - 657850 - ((i - 1) * 655350)) * subsidy;
       } else {
         coins += 655350 * subsidy
       }
